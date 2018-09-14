@@ -63,7 +63,11 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
+<<<<<<< HEAD
     deviceNameSetInEditor: 'USB Camera #2'
+=======
+    deviceNameSetInEditor: Logitech QuickCam E3500
+>>>>>>> 5864b2d4a99550df722a2585af4979f0fcabf8e3
     flipHorizontally: 0
     turnOffWebCam: 0
     renderTextureLayer: 30
